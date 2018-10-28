@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_20180811_190854" size="0.087000 0.065095" />
+    <ImageTarget name="PokemonCard2" size="0.063000 0.089283" />
+    <ImageTarget name="PokemonCard" size="0.063000 0.087348" />
+  </Tracking>
+</QCARConfig>
